@@ -10,8 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=kaisamson&label=Profile%20views&color=4BC65E&style=for-the-badge" alt="kaisamson" />
 </p>
 
-- 🔍 I’m currently seeking **2026 Fall Software Engineering / iOS + AI internships!**
-
+<!-- - 🔍 I’m currently seeking **2026 Fall Software Engineering / iOS + AI internships!** -->
 - 🧠 I like building **Swift/Web + ML Apps** for **golf, productivity, and logistics!**
 
 - ⌨️ Check out my portfolio for more projects! - **[kaisamson.com](https://kaisamson.com)**
